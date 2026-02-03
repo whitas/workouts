@@ -92,16 +92,30 @@ Cel: stabilność, brak skoków glukozy.
 2. sód
 3. sygnał energetyczny dla mózgu
 
+### Bone broth (termos) – element kluczowy
+
+Uczestnik **posiada bone broth w termosie** i traktuje go jako:
+- nocny stabilizator układu nerwowego
+- zamiennik klasycznego posiłku
+- element przeciwko wychłodzeniu i „czarnej dziurze mentalnej”
+
+**Zasady użycia:**
+- kilka łyków **po pętli** lub w połowie pętli
+- tylko **ciepły i wyraźnie słony**
+- traktować jak lek, nie jak posiłek objętościowy
+
+Bone broth = woda + sód + aminokwasy + ciepło → minimalne obciążenie jelit.
+
 ### W trakcie pętli
-- **częściej grzonkówka niż woda**
+- częściej grzonkówka niż woda
 - mniejsze, ale częstsze łyki
 - zero słodkich żeli
 
 ### Po pętli
-- **ciepła zupa / bulion – obowiązkowo**
+- **bone broth (obowiązkowo w nocy)**
 - coś półpłynnego:
-  - jogurt/skyr (jeśli tolerowany)
   - jajka
+  - jogurt/skyr (jeśli tolerowany)
 - **baton tylko jeśli trzeba**:
   - max 1 szt. / kilka godzin
 
@@ -158,7 +172,56 @@ Grzonkówka = stabilność, nie kalorie.
 
 ---
 
-## 7. Zasada końcowa
+## 7. BCAA – analiza zasadności (wnioski końcowe)
+
+### Stan wyjściowy
+W strategii żywieniowej obecne są:
+- jajka
+- kabanosy / kiełbasa
+- ser
+- bone broth
+
+Źródła te dostarczają **pełnego profilu aminokwasów**, w tym leucyny.
+
+---
+
+### Potencjalne plusy BCAA
+- forma **płynnego białka**, gdy nie wchodzi jedzenie stałe
+- możliwy **efekt mentalny** („coś robię, coś piję”)
+- neutralne energetycznie (nie zaburzają gospodarki glukozowej)
+
+---
+
+### Realne minusy i ograniczenia
+- brak przewagi nad pełnym białkiem z jedzenia
+- nie zastępują kalorii ani elektrolitów
+- brak istotnego wpływu na zmęczenie nerwowe w ultra 24h
+- smak często zaczyna odrzucać po 10–12 h
+- u części osób ryzyko nudności na pusty żołądek
+
+---
+
+### Wnioski praktyczne
+- **BCAA nie są potrzebne** w tej konfiguracji
+- strategia oparta na prawdziwym jedzeniu + bone broth jest skuteczniejsza
+- BCAA nie poprawiają wyniku, a mogą zwiększać złożoność planu
+
+---
+
+### Jeśli mimo wszystko używane
+- dawka: **~5 g**
+- moment: **po pętli**, na postoju
+- częstość: **1–2 razy w ciągu 24 h (max)**
+- zawsze z wodą
+
+**Nie stosować:**
+- w trakcie pętli
+- zamiast jedzenia
+- zamiast elektrolitów
+
+---
+
+## 8. Zasada końcowa
 
 Ultra 24h wygrywa **powtarzalność i nuda**.
 
