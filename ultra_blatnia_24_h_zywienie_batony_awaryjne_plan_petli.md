@@ -276,7 +276,72 @@ Może pomóc jako ostatnia deska ratunku, ale **prostota i sól zawsze mają pie
 
 ---
 
-## 9. Zasada końcowa
+## 9. Orsalit – rotacyjny zamiennik kapsułek (z korektą sodu)
+
+### Czym jest Orsalit w tym planie
+Orsalit traktowany jest jako **kliniczny płyn nawadniający (ORS)**, a nie izotonik sportowy.
+Jego rolą jest:
+- poprawa wchłaniania płynów
+- ulga dla żołądka
+- zmiana smaku i bodźca sensorycznego
+
+Nie jest źródłem kalorii ani głównym źródłem sodu.
+
+---
+
+### Skład funkcjonalny (1 saszetka)
+- sód: ~170–180 mg
+- potas: ~75 mg
+- glukoza: ~2–3 g
+- niska osmolalność (bardzo dobra tolerancja jelitowa)
+
+---
+
+### Zasady użycia w ultra 24h
+
+- **częstotliwość:** co **2–3 pętle (2h)**
+- **porcja:** 1 saszetka rozpuszczona wg zaleceń (ok. 200 ml)
+- **moment:** po pętli lub w jej pierwszej części
+
+---
+
+### Krytyczna uwaga – korekta sodu
+
+Orsalit **nie zastępuje ilościowo kapsułek soli**.
+
+Dlatego przy każdej saszetce Orsalitu:
+- **OBOWIĄZKOWO dodać 1 kapsułkę soli (Salt Caps)**
+
+Daje to:
+- ~170–180 mg sodu z Orsalitu
+- ~400 mg sodu z kapsułki
+→ razem ~550–600 mg sodu
+
+Pozostały sód w danej pętli pochodzi z:
+- jedzenia (kabanosy, kiełbasa, ser)
+- bulionu / bone broth
+
+---
+
+### Kiedy Orsalit jest szczególnie wskazany
+- noc
+- zimno
+- problemy żołądkowe
+- momenty, gdy ISO lub kapsułki zaczynają być źle tolerowane
+
+### Kiedy NIE stosować
+- jako jedyne źródło elektrolitów
+- pętla po pętli przez wiele godzin
+- zamiast soli i jedzenia
+
+---
+
+**Wniosek:**  
+Orsalit jest bardzo dobrym elementem rotacyjnym, ale **zawsze z korektą sodu kapsułką soli**.
+
+---
+
+## 10. Zasada końcowa
 
 Ultra 24h wygrywa **powtarzalność i nuda**.
 
