@@ -224,7 +224,59 @@ W strategii żywieniowej obecne są:
 
 ---
 
-## 8. Zasada końcowa
+## 8. Masło klarowane + cynamon – opcja awaryjna (z ostrzeżeniami)
+
+### Status
+**Opcja awaryjna / specjalnego przeznaczenia.**  
+Nie jest elementem bazowym strategii.
+
+---
+
+### Potencjalne plusy
+- skoncentrowane paliwo tłuszczowe (pasuje do adaptacji tłuszczowej)
+- bodziec smakowy dla mózgu mimo braku cukru
+- bardzo mała objętość
+- brak błonnika i obciążenia mechanicznego jelit
+
+---
+
+### Realne ryzyka
+- brak sodu (nie stabilizuje elektrolitów)
+- czysty tłuszcz może zalegać w zmęczonym żołądku
+- łatwo przesadzić z dawką
+- połączenie z ISO (słodkie + tłuszcz) może wywołać mdłości
+
+---
+
+### Zasady bezpiecznego użycia
+- dawka: **½ łyżeczki** masła klarowanego
+- dodatek: **szczypta cynamonu**
+- **tylko na postoju**
+- **max 1–2 razy / 24 h**
+- **zawsze po soli / bone broth**, nigdy przed
+
+---
+
+### Kiedy rozważyć
+- noc
+- zimno
+- brak apetytu
+- sytuacja, gdy słone płyny i jedzenie wchodzą, ale nadal jest „pusto w głowie”
+
+### Kiedy NIE stosować
+- w trakcie pętli
+- w dzień
+- jako stały element planu
+- razem z dużą ilością ISO
+
+---
+
+**Wniosek:**  
+Może pomóc jako ostatnia deska ratunku, ale **prostota i sól zawsze mają pierwszeństwo**.
+
+---
+
+## 9. Zasada końcowa
 
 Ultra 24h wygrywa **powtarzalność i nuda**.
 
