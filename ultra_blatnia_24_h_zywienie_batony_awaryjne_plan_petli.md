@@ -1,5 +1,8 @@
 # Ultra Błatnia 24H – strategia żywieniowa
 
+> **Motto planu:**  
+> **Cel: utrzymać sygnał „jest paliwo, nie panikuj”.**
+
 Dokument roboczy. Cel: **przetrwać 24h bez awarii jelit, głowy i elektrolitów**. Kalorie są wtórne.
 
 ---
