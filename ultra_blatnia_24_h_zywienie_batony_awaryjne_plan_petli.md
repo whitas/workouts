@@ -97,7 +97,7 @@ Cel: stabilność, brak skoków glukozy.
 
 ### Bone broth (termos) – element kluczowy
 
-Uczestnik **posiada bone broth w termosie** i traktuje go jako:
+**Posiadam bone broth w termosie** i traktuję go jako:
 - nocny stabilizator układu nerwowego
 - zamiennik klasycznego posiłku
 - element przeciwko wychłodzeniu i „czarnej dziurze mentalnej”
